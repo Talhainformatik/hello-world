@@ -1,2 +1,1 @@
-# hello-world
-Freedom Kiel
+FreedOM Kiel
